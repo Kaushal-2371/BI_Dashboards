@@ -2,7 +2,7 @@
 
 > Power BI dashboard analysing 2021 sales performance for **Awesome Chocolate Co.** across 6 countries, 22 products, and 25+ salespeople.
 
-![dashboard-preview.png](https://github.com/Kaushal-2371/BI_Dashboards/blob/main/Global_Chocolate_Sale/Dash_Pic.png?raw=true)
+![dashboard-preview.png](https://github.com/Kaushal-2371/BI_Dashboards/blob/main/Global_Chocolate_Sale/Dash_Pic.png)
 
 ---
 
